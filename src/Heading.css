@@ -1,0 +1,17 @@
+.heading {
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.heading .title {
+    font-size: 25px;
+    font-family: Brandon Text Bold;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.heading .description {
+    margin-top: 16px;
+}

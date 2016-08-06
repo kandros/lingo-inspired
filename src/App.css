@@ -1,0 +1,58 @@
+@font-face {
+    font-family: Brandon Text Regular;
+    src: url(https://static.lingoapp.com/assets/bundles/6daa1614f08114d4858edf8ec9cb83f4.eot?#iefix);
+    src: url(https://static.lingoapp.com/assets/bundles/6daa1614f08114d4858edf8ec9cb83f4.eot?#iefix) format("eot"), url(https://static.lingoapp.com/assets/bundles/89d3d3f0d728c4b09eef33b29303a61f.woff2) format("woff2"), url(https://static.lingoapp.com/assets/bundles/b56e207fe306865abe381e0a390ef5ea.woff) format("woff"), url(https://static.lingoapp.com/assets/bundles/1a622faf6ed5f92a63806a38bdbeb875.ttf) format("truetype"), url(https://static.lingoapp.com/assets/bundles/26a83ac516db0b21fd573ca431df1982.svg#760535fc-04e3-4e76-8e8e-064fa58cb3b8) format("svg")
+}
+
+@font-face {
+    font-family: Brandon Text Regular Italic;
+    src: url(https://static.lingoapp.com/assets/bundles/466cb05eb0cfa09e397e22aa69490579.eot?#iefix);
+    src: url(https://static.lingoapp.com/assets/bundles/466cb05eb0cfa09e397e22aa69490579.eot?#iefix) format("eot"), url(https://static.lingoapp.com/assets/bundles/92984bd2092a7dcbc5b5715f2ced6159.woff2) format("woff2"), url(https://static.lingoapp.com/assets/bundles/7ef2de94390fd39ac101fcaf1e90691e.woff) format("woff"), url(https://static.lingoapp.com/assets/bundles/9d7025179375c4ba223f85441b6e3bc6.ttf) format("truetype"), url(https://static.lingoapp.com/assets/bundles/2f94d94be385e934913f634bee675a4f.svg#9b46a793-05cb-4f24-90ef-2a5322dc69e7) format("svg")
+}
+
+@font-face {
+    font-family: Brandon Text Medium;
+    src: url(https://static.lingoapp.com/assets/bundles/737812f623ca48343ae5bb9d3c47272e.eot?#iefix);
+    src: url(https://static.lingoapp.com/assets/bundles/737812f623ca48343ae5bb9d3c47272e.eot?#iefix) format("eot"), url(https://static.lingoapp.com/assets/bundles/135917ece82d37bb5dc40c35652cab80.woff2) format("woff2"), url(https://static.lingoapp.com/assets/bundles/5aa9cd42a34e46048d96c40be5721f4b.woff) format("woff"), url(https://static.lingoapp.com/assets/bundles/138236ade19c95c830f544fa238787ed.ttf) format("truetype"), url(https://static.lingoapp.com/assets/bundles/de3a10d47af1ec769a4a2e1f7cca1fd0.svg#54adb087-f2c3-4a26-b4b2-824a403ceaac) format("svg")
+}
+
+@font-face {
+    font-family: Brandon Text Medium Italic;
+    src: url(https://static.lingoapp.com/assets/bundles/e8edbc1b8113c25a2d1d766dbd74ac43.eot?#iefix);
+    src: url(https://static.lingoapp.com/assets/bundles/e8edbc1b8113c25a2d1d766dbd74ac43.eot?#iefix) format("eot"), url(https://static.lingoapp.com/assets/bundles/40286f260133e361310fa14f5f38cdbd.woff2) format("woff2"), url(https://static.lingoapp.com/assets/bundles/5fe93400257a73446bd44bf07580c2c2.woff) format("woff"), url(https://static.lingoapp.com/assets/bundles/919921cd81c01179f160e150c040001a.ttf) format("truetype"), url(https://static.lingoapp.com/assets/bundles/ef897af3fa52020095f7f2676b83ce0d.svg#b0784da6-4c0d-4df3-b2de-9d01604aef81) format("svg")
+}
+
+@font-face {
+    font-family: Brandon Text Bold;
+    src: url(https://static.lingoapp.com/assets/bundles/f05632bbcdb9df83af2703907ff7505a.eot?#iefix);
+    src: url(https://static.lingoapp.com/assets/bundles/f05632bbcdb9df83af2703907ff7505a.eot?#iefix) format("eot"), url(https://static.lingoapp.com/assets/bundles/6354363762194bda969cb59ff7a0c4e4.woff2) format("woff2"), url(https://static.lingoapp.com/assets/bundles/5b533679b66caa2ed8e5c59dd317d283.woff) format("woff"), url(https://static.lingoapp.com/assets/bundles/645ea1049d54e6c5e4d5dba8e6efb450.ttf) format("truetype"), url(https://static.lingoapp.com/assets/bundles/8cba1119f2e84a5732ce5fbe9381374e.svg#5fc00f46-e402-4d59-9c9d-6c21ee2b8167) format("svg")
+}
+
+@font-face {
+    font-family: Brandon Text Bold Italic;
+    src: url(https://static.lingoapp.com/assets/bundles/9f0d760ffe2ece21096ba2f7e850c266.eot?#iefix);
+    src: url(https://static.lingoapp.com/assets/bundles/9f0d760ffe2ece21096ba2f7e850c266.eot?#iefix) format("eot"), url(https://static.lingoapp.com/assets/bundles/8f2181150cdf08996fea0018a66daaca.woff2) format("woff2"), url(https://static.lingoapp.com/assets/bundles/2579c58eb45338c0f9daade90a9a17f0.woff) format("woff"), url(https://static.lingoapp.com/assets/bundles/eebaf7f85e86bd40583342f81bde2aa4.ttf) format("truetype"), url(https://static.lingoapp.com/assets/bundles/a2995f663c332692fb0feaf7d6773188.svg#42caf75d-fe08-4e83-954f-c6c2023233b7) format("svg")
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1em;
+    line-height: 1;
+    font-weight: 400;
+    font-family: Brandon Text Regular;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+body {
+    background-color: #fed149;
+    font-family: Brandon Text Regular;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    zoom: 1;
+}

@@ -1,0 +1,5 @@
+.cards-grid {
+    max-width: 960px;
+    display: flex;
+    flex-wrap: wrap;
+}
