@@ -2,7 +2,7 @@ import React, {PropTypes} from 'react';
 import './Card.css';
 
 export const CardShape = PropTypes.shape({
-    id: PropTypes.string.isRequired,
+    id: PropTypes.number.isRequired,
     title: PropTypes.string.isRequired,
     creator: PropTypes.string.isRequired,
     image: PropTypes.string.isRequired,
