@@ -19,7 +19,7 @@ class Homepage extends Component {
                 <br/><br/><br/><br/><br/>
                 
                 <Heading title="ReactJS cards grid"
-                         description="Ready-to-use assets to help you kick-start your next project, all in one place."
+                         description="Lingo inspired designs built at arnold coffee on a normal saturday because why not?"
                 />
                 <CardGrid items={items}/>
             </div>
