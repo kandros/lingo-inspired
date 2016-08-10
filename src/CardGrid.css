@@ -3,3 +3,9 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+@media (max-width: 1024px) {
+    .cards-grid {
+        justify-content: center;
+    }
+}
