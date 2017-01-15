@@ -50,7 +50,8 @@
   },
   "scripts": {
     "start": "node ./scripts/start.js",
-    "build": "node ./scripts/build.js"
+    "build": "node ./scripts/build.js",
+    "deploy:surge": "npm run build && surge --project ./build --domain lingo-inspired.surge.sh"
   },
   "eslintConfig": {
     "extends": "./config/eslint.js"
